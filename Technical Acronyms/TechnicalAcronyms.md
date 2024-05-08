@@ -34,3 +34,21 @@
 | SLOs | Service Level Objectives | SLOs are specific, measurable targets set by service providers to define the level of service quality or reliability they aim to achieve for their customers. SLOs are often part of Service Level Agreements (SLAs). | |
 | EMs | Engineering Managers | |
 | ARIA | Accessible Rich Internet Applications | - |
+| BAA | Business Associate Agreement | A business associate agreement |
+| SSO | Single Sign On | - |
+| ORM | Obkect-Relational Mapping | - |
+| DDIA | Desigining Data-Intensive Applications | - |
+| RTL | Register Transfer Level | - |
+| DFT | Design for Testability | - |
+| CDC | - | - |
+| MVC | - | - |
+| SCM | Supply Chain Management | - |
+| _ | Source Control Management | - |
+| ERP | - | - |
+| KPI | - | - |
+| SDK | - | - |
+| SDLC | - | - |
+| UMLS | - | - |
+| APM | - | - |
+| SCOM | - | - |
+
